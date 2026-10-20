@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=230&section=header&text=Namira%20Mulla&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%7C%20Data%20and%20Cloud&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Namira Mulla" />
+## Hi, I'm Namira 👋
 
-<p align="center">
+<p>
   📍 Melbourne, Australia &nbsp;·&nbsp; 🎓 Master of IT @ RMIT &nbsp;·&nbsp; 🟢 Open to work
 </p>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/namiramulla11"><b>LinkedIn</b></a> &nbsp;|&nbsp;
   <a href="mailto:namiramulla1103@gmail.com"><b>Email</b></a> &nbsp;|&nbsp;
   <a href="https://jcse.cloud/JCSE/Published_Papers/2Nov13_21.pdf"><b>My publication</b></a>
@@ -115,5 +115,3 @@
 - Building a **Python data analytics** project with Pandas and Power BI
 - Learning to deploy on **AWS** and strengthening my **Cyber Security** skills
 - Looking for **internships and early-career roles** in Data, Cloud, Cyber Security and Software Engineering
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:91EAE4,50:86A8E7,100:7F7FD5&height=120&section=footer" width="100%" alt="" />
