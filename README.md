@@ -1,110 +1,119 @@
-<h1 align="center">Hi, I'm Namira Mulla 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=230&section=header&text=Namira%20Mulla&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%7C%20Data%20and%20Cloud%20%7C%20Published%20Researcher&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Namira Mulla" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=680&lines=Software+Engineer+%7C+Data+%26+Technology;Master+of+IT+%40+RMIT+University;Data+Analytics+%C2%B7+Cloud+%C2%B7+Cyber+Security;Published+Computer+Vision+researcher" alt="Typing intro" />
+  📍 Melbourne, Australia &nbsp;·&nbsp; 🎓 Master of IT @ RMIT &nbsp;·&nbsp; 🟢 Open to work
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/namiramulla11"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:namiramulla1103@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Open%20to%20work-Melbourne%20%7C%20Australia-2EA44F?style=for-the-badge" alt="Open to work"/>
+  <a href="https://www.linkedin.com/in/namiramulla11"><b>LinkedIn</b></a> &nbsp;|&nbsp;
+  <a href="mailto:namiramulla1103@gmail.com"><b>Email</b></a> &nbsp;|&nbsp;
+  <a href="https://jcse.cloud/JCSE/Published_Papers/2Nov13_21.pdf"><b>My publication</b></a>
 </p>
 
----
+<br/>
 
-### 🙋‍♀️ About me
+> I turn messy processes into reliable software, and data into better decisions.
+> 2 years in industry across enterprise software, workflow automation and Computer Vision research. Now growing into **Data Analytics, Cloud and Cyber Security**.
 
-I'm a **Data & Technology professional** with **2 years of industry experience** in software engineering, enterprise applications, workflow automation and data-driven solutions. I'm now doing a **Master of Information Technology at RMIT University** in Melbourne, building on that foundation with **Data Analytics, Cloud Computing and Cyber Security**.
+<br/>
 
-- 💼 **Associate Software Engineer** at Plural Technology: enterprise PLM and workflow automation for client projects
-- 🔬 **Published first author:** an AI-powered, gesture-controlled virtual mouse for accessibility (TJCSE, 2025)
-- 🎓 **B.Tech in Computer Science** (MIT World Peace University) → **Master of IT** (RMIT, 2027)
-- 🧑‍🤝‍🧑 Former **General Secretary and Advisor** at the Computer Society of India, MITWPU chapter
-- 🤝 **Open to** internships and early-career roles in **Data Analytics, Cloud, Cyber Security and Software Engineering**
+## 🧭 My journey
 
----
+<table>
+  <tr>
+    <td width="130"><b>2020 – 2024</b></td>
+    <td>🎓 <b>B.Tech, Computer Science</b> · MIT World Peace University, Pune<br/>
+    <sub>General Secretary, then Advisor, at the Computer Society of India student chapter</sub></td>
+  </tr>
+  <tr>
+    <td><b>Jan – Jun 2024</b></td>
+    <td>🔬 <b>Software Intern</b> · TAS India<br/>
+    <sub>Python and OpenCV algorithms for automated anomaly detection on manufacturing lines. AI/ML and image-processing research that led to my first published paper.</sub></td>
+  </tr>
+  <tr>
+    <td><b>Jun 2024 – Jan 2026</b></td>
+    <td>💼 <b>Associate Software Engineer</b> · Plural Technology<br/>
+    <sub>Enterprise PLM and workflow automation (Aras Innovator) across 2 client projects and 3+ teams: data models, lifecycle workflows, role-based access and automated reporting. Built an end-to-end Manufacturing Quotation Management system and led a database replication POC.</sub></td>
+  </tr>
+  <tr>
+    <td><b>Nov 2025</b></td>
+    <td>📄 <b>Published, first author</b> · The Journal of Computational Science and Engineering<br/>
+    <sub>“AI Virtual Mouse to Enhance User Experience and Increase Accessibility”</sub></td>
+  </tr>
+  <tr>
+    <td><b>2026 – now</b></td>
+    <td>🎓 <b>Master of Information Technology</b> · RMIT University, Melbourne<br/>
+    <sub>Focusing on Data Analytics, Cloud Computing and Cyber Security</sub></td>
+  </tr>
+</table>
 
-### 💼 Experience
+<br/>
 
-**Associate Software Engineer** · Plural Technology · Jun 2024 – Jan 2026 · Pune, India
-- Built enterprise **PLM and workflow automation** solutions across **2 major client projects**, turning requirements from **3+ cross-functional teams** into data models, lifecycle workflows, validation rules, role-based permissions and automated reporting (Aras Innovator)
-- Delivered an end-to-end **Manufacturing Quotation Management** system covering 4 core processes (Enquiries → Quotations → Sales Orders → Invoices) with workflow automation, data validation, access control and PDF reporting
-- Led a **Vault Configuration & Database Replication POC** across 2 environments: cross-instance file replication, database connectivity, integration, testing and deployment
+## ✨ Things I've built
 
-**Software Intern** · TAS India Pvt Ltd · Jan 2024 – Jun 2024 · Pune, India
-- Developed **Python and OpenCV** Computer Vision algorithms for **automated anomaly detection** on manufacturing production lines
-- Designed and tested **AI/ML and image-processing** solutions for smart manufacturing, including artificial neural networks
-- **First author** of a published paper on a gesture-controlled **AI Virtual Mouse** for accessibility ([see below](#-publication))
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🖱️ AI Virtual Mouse</h3>
+      <p>A touch-free mouse you control with hand gestures through a normal webcam, built for people with limited hand mobility. MediaPipe tracks 21 hand landmarks in real time for cursor movement, clicks and zoom.</p>
+      <p><code>Python</code> <code>OpenCV</code> <code>MediaPipe</code></p>
+      <p><a href="https://jcse.cloud/JCSE/Published_Papers/2Nov13_21.pdf">📄 Read the paper →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🩺 MyHealth API</h3>
+      <p>A secure REST backend for personal health records: BCrypt-hashed logins, full CRUD, field-level validation, global error handling and Docker support.</p>
+      <p><code>Spring Boot</code> <code>Spring Security</code> <code>JPA</code> <code>Docker</code></p>
+      <p><a href="https://github.com/nameera1103/myhealth-api">💻 View the code →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏭 Quotation Management System</h3>
+      <p>An enterprise workflow at Plural Technology covering Enquiries → Quotations → Sales Orders → Invoices, with automation, validation, access control and PDF reports.</p>
+      <p><code>Aras Innovator</code> <code>Workflow automation</code> <code>Data validation</code></p>
+      <p><sub>Client project, code not public</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚌 Bus Driver Guidance System</h3>
+      <p>A team project managing buses and drivers under strict business rules, with 38 unit and integration tests running on every push through GitHub Actions.</p>
+      <p><code>Java</code> <code>JUnit 5</code> <code>GitHub Actions</code></p>
+      <p><a href="https://github.com/nameera1103/Intelligent-Bus-Driver-Guidance-System">💻 View the code →</a></p>
+    </td>
+  </tr>
+</table>
 
----
+<br/>
 
-### 🛠️ Skills & tools
+## 🧰 What I work with
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,mysql,aws,spring,docker,git,github,githubactions,postman&perline=11" alt="Skill icons" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br/><sub>Python</sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/><br/><sub>Pandas</sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/><br/><sub>SQL</sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV"/><br/><sub>OpenCV</sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/><br/><sub>AWS</sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/><br/><sub>Java</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/><br/><sub>C#</sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/><br/><sub>Spring Boot</sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/><br/><sub>Docker</sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions"/><br/><sub>CI/CD</sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br/><sub>Git</sub></td>
+    <td align="center" width="96">📊<br/><sub>Power BI</sub></td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Aras%20Innovator-PLM-0B5394?style=flat-square" alt="Aras Innovator"/>
-</p>
+<sub>Also: Machine Learning · Computer Vision · REST APIs · data modelling · workflow automation · Aras Innovator (PLM) · JUnit 5</sub>
 
-| Area | Tools |
-| --- | --- |
-| **Data & Analytics** | Python, Pandas, SQL, MySQL, Power BI, data modelling |
-| **AI / ML** | Machine Learning, Computer Vision, OpenCV, neural networks |
-| **Cloud** | AWS |
-| **Software Engineering** | Java, C#, REST APIs, Spring Boot |
-| **Enterprise & Automation** | Aras Innovator (PLM), workflow automation, system integration, role-based access |
-| **Testing & DevOps** | JUnit 5, GitHub Actions CI, Docker, Git |
+<br/><br/>
 
----
+## 🌱 Right now
 
-### 🚀 Featured projects
+- Studying for my **Master of IT** at RMIT
+- Building a **Python data analytics** project with Pandas and Power BI
+- Learning to deploy on **AWS** and strengthening my **Cyber Security** skills
+- Looking for **internships and early-career roles** in Data, Cloud, Cyber Security and Software Engineering
 
-#### 🩺 [MyHealth API](https://github.com/nameera1103/myhealth-api)
-A RESTful backend for managing personal health records.
-- Secure sign-up and login with **BCrypt-hashed passwords**
-- Full **CRUD** with field-level validation and clean JSON error responses
-- Layered architecture, global exception handling and **Docker** support
-
-`REST API` `Spring Boot` `Spring Security` `JPA` `Docker`
-
-#### 🚌 [Intelligent Bus Driver Guidance System](https://github.com/nameera1103/Intelligent-Bus-Driver-Guidance-System)
-A team project for managing buses and drivers under strict business rules.
-- **38 automated unit and integration tests**
-- **CI pipeline** with GitHub Actions on every push
-- Peer code review across the team
-
-`Java` `JUnit 5` `GitHub Actions` `CI/CD`
-
----
-
-### 📄 Publication
-
-#### 🖱️ [AI Virtual Mouse to Enhance User Experience and Increase Accessibility](https://jcse.cloud/JCSE/Published_Papers/2Nov13_21.pdf)
-*The Journal of Computational Science and Engineering (TJCSE)*, Vol. 3, No. 11, November 2025 · **First author**
-
-Research from my internship at **TAS India**. People with limited hand or arm mobility can struggle with a physical mouse, so we built a **touch-free virtual mouse** controlled by hand gestures through an ordinary webcam.
-- **OpenCV** captures the video feed and **MediaPipe** tracks **21 hand landmarks** in real time
-- Fingertip positions map to cursor movement, with gestures for **left click, right click and zoom**
-- No extra hardware needed, just a standard webcam
-
-`Python` `OpenCV` `MediaPipe` `Computer Vision` `Accessibility`
-
----
-
-### 🎯 What I'm working on next
-
-- [ ] A **Python data analytics** project with Pandas and Power BI dashboards
-- [ ] Deploying a project on **AWS**
-- [ ] Building my **Cyber Security** skills through my RMIT coursework
-
----
-
-<p align="center">
-  <i>Thanks for stopping by. Let's connect on <a href="https://www.linkedin.com/in/namiramulla11">LinkedIn</a>!</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:91EAE4,50:86A8E7,100:7F7FD5&height=120&section=footer" width="100%" alt="" />
