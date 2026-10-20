@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=230&section=header&text=Namira%20Mulla&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%7C%20Data%20and%20Cloud%20%7C%20Published%20Researcher&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Namira Mulla" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=230&section=header&text=Namira%20Mulla&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%7C%20Data%20and%20Cloud&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Namira Mulla" />
 
 <p align="center">
   📍 Melbourne, Australia &nbsp;·&nbsp; 🎓 Master of IT @ RMIT &nbsp;·&nbsp; 🟢 Open to work
