@@ -13,7 +13,7 @@
 <br/>
 
 > I turn messy processes into reliable software, and data into better decisions.
-> 2 years in industry across enterprise software, workflow automation and Computer Vision research. Now growing into **Data Analytics, Cloud and Cyber Security**.
+> 2 years in industry across enterprise software, workflow automation and Computer Vision research. Now growing into **Data, Cloud and Cyber Security**.
 
 <br/>
 
